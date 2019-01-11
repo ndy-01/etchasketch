@@ -1,0 +1,24 @@
+body {
+    color: skyblue;
+    background-color: black;
+}
+
+.simpleBox {
+    width: 20px;
+    height: 20px;
+    margin: 0;
+    border-style: solid;
+    border-width: 1px;
+    display: inline-block;
+}
+
+div.row {
+    background-color: red;
+}
+
+#gridBox {
+    width: 480px;
+    height:480px;
+    border-style: dotted;
+    border-width: 1px;
+}
