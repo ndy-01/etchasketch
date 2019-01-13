@@ -13,7 +13,12 @@ body {
 }
 
 div.row {
-    background-color: red;
+    margin: 0px;
+    height: 20px;
+}
+
+.highlight {
+    background-color: skyblue;
 }
 
 #gridBox {
